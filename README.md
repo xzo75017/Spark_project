@@ -40,7 +40,7 @@
 - Understanding different Action functions
 - Execute different Action functions
 
-#Spark project beginner 4
+# Spark project beginner 4
 
 - Understanding the project overview
 - Introduction to PySpark
