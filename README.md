@@ -71,3 +71,16 @@
 - Methods of creating Dataframes in pyspark
 - Implementation of spark submit command
 
+# Spark project SQL 
+
+- Understanding the project overview
+- Introduction to PySpark
+- Introduction to SQL
+- Features and benefits of SQL
+- Understanding Spark SQL
+- Understanding the business case study
+- Understanding business requirements
+- Converting PySpark Dataframes into SQL tables
+- Different types of Joins in PySpark SQL
+- Implementing PySpark SQL code
+
