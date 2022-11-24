@@ -57,3 +57,17 @@
 - Methods of creating Dataframes in pyspark
 - Understanding UDF in spark
 - Implementation of Transformation and Action functions on spark Dataframe
+
+# Spark advanced DataFrame concept 
+
+- Understanding the project overview
+- Introduction to PySpark
+- Understanding Spark Architecture and Lifecycle
+- Introduction to Spark Operations
+- Understanding the business case study
+- Understanding business requirements
+- Understanding Resilient Distributed Data (RDD)
+- Difference between Transformation and Action
+- Methods of creating Dataframes in pyspark
+- Implementation of spark submit command
+
